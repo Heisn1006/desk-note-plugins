@@ -1,0 +1,7 @@
+{
+  "id": "wallpaper",
+  "name": "壁纸穿透",
+  "description": "把桌面壁纸按真实位置映射到便签背景，窗口移动时壁纸跟着走，换壁纸也会自动更新。Wallpaper Engine 项目仅 .mp4 / .webm 视频壁纸会自动播放，其它类型显示预览图。",
+  "version": "0.1.0",
+  "main": "index.js"
+}
